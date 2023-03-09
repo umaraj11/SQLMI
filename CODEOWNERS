@@ -1,0 +1,10 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @global-owner1 and @global-owner2 will be requested for
+# review when someone opens a pull request.
+*       @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops
+/production/    @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops
+/default/       @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops
+/staging/       @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops
+/sandbox/       @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops
+/.circleci/     @PaymentFusion/ax-cloud-operations-engineer @PaymentFusion/sv-cloud-operations-engineer @PaymentFusion/bofa-pg-ops

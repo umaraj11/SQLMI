@@ -1,0 +1,10 @@
+{
+	"env": "tst",
+	"subscription_id": "b97d2c82-308f-4fb1-9d37-48552c3fd30c",
+	"connectivity_subscription_id": "a31eabdc-2bbe-4c99-b846-43271f320c52",
+	"connectivity_env": "lle",
+	"bastion_ops_address_space": "10.3.9.0/24",
+	"primary_fw_address_space": "10.2.7.132",
+	"primary_sql_prefix": "10.1.1.0/24",
+	"primary_sql_address_space": "10.1.1.0/24"
+}

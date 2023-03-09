@@ -1,0 +1,10 @@
+{
+	"env": "dev",
+	"subscription_id": "2546804c-8935-45d5-81bd-27cefcc4cb31",
+	"connectivity_subscription_id": "a31eabdc-2bbe-4c99-b846-43271f320c52",
+	"connectivity_env": "lle",
+	"bastion_ops_address_space": "10.1.2.0/23",
+	"primary_fw_address_space": "10.2.7.132",
+	"primary_sql_prefix": "10.2.9.0/24",
+	"primary_sql_address_space": "10.2.9.0/24"
+}

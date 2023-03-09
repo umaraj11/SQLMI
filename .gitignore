@@ -1,0 +1,15 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# override.tf
+**/override.tf
+
+# vscode settings
+.vscode/settings.json
+
+# PyCharm settings
+.idea/*
